@@ -5,10 +5,10 @@ using UnityEngine.UI;
 
 public class CardBase : MonoBehaviour
 {
-
     public static int id;
     public bool special_card;
     public bool has_action;
+    public bool isWildFour;
 
     public Image card_sprite_ui;
     public Sprite card_sprite_table;
@@ -33,7 +33,12 @@ public class CardBase : MonoBehaviour
 
     }
 
-    public virtual void Action()
+    public virtual void OnUse()
+    {
+        
+    }
+
+    public void UseAction()
     {
 
     }

@@ -4,6 +4,13 @@ TextureImporter:
   fileIDToRecycleName:
     21300000: UnoCards_0
     21300002: UnoCards_1
+    21300004: UnoCards_2
+    21300006: UnoCards_3
+    21300008: UnoCards_4
+    21300010: UnoCards_5
+    21300012: UnoCards_6
+    21300014: UnoCards_7
+    21300016: UnoCards_8
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -127,7 +134,7 @@ TextureImporter:
         width: 242
         height: 362
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,13 +154,153 @@ TextureImporter:
         width: 244
         height: 362
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
       spriteID: da56f1a2192fd6f40800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoCards_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 241
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc6d8175ffe715499b1965aaf155fa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoCards_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2160
+        width: 242
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db0eeb316c8c37429fef9b12942d665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoCards_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 242
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2c7cc5b3d841e4885da256b2302031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoCards_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1800
+        width: 242
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0f3c2428b11924e9fb82669f0e7c72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoCards_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1439
+        width: 242
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31382a5fe2a1964688abeb8cf6f7399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoCards_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1441
+        width: 241
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55711f61dac62a54284e145ccb717850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnoCards_8
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 1078
+        width: 248
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aaa735bb79c4a4fb7eb86e70c1e1a6
       vertices: []
       indices: 
       edges: []

@@ -17,7 +17,7 @@ public class TestCard : CardBase
         this.card_sprite_table = card_sprite;
     }
 
-    public override void Action()
+    public void Action()
     {
         Debug.Log("Works!");
     }
